@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "demos",
+			"path": "../demos"
+		}
+	],
+	"settings": {
+		"editor.wordWrap": "on"
+	},
+	"extensions": {
+		"recommendations": [
+			"amazonwebservices.aws-toolkit-vscode",
+			"github.vscode-pull-request-github"
+		]
+	}
+}
